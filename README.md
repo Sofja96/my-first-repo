@@ -1,9 +1,4 @@
-# Sofja96
-
-### Gegraphy
-
-I live in the sity of Moscow.
-
-### Reading
- My favrite book is: 
- - *Source* by Ain Rand
+#Guessinggame
+The time run make: Вт окт 20 13:43:49 MSK 2020
+This file contains the following number of entries:
+16
