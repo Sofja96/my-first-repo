@@ -24,4 +24,4 @@ do
 done
 
 }
-countfile
+countfiles
